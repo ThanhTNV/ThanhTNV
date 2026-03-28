@@ -52,28 +52,17 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThanhTNV&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThanhTNV&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ThanhTNV&theme=github_dark" alt="Stats" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ThanhTNV&theme=github_dark" alt="Top Languages by Repo" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ThanhTNV&theme=github_dark" alt="Top Languages by Commit" height="170" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThanhTNV&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 </p>
 
----
-
-### 🏆 GitHub Trophies
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ThanhTNV&theme=darkhub&no-frame=true&column=7" alt="Trophies" />
-</p>
-
----
-
-### 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThanhTNV&theme=github-dark&hide_border=true&area=true" alt="Activity Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThanhTNV&theme=github_dark" alt="Contribution Details" />
 </p>
 
 ---
