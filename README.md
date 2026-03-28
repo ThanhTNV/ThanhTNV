@@ -52,13 +52,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ThanhTNV&theme=github_dark" alt="Stats" height="170" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ThanhTNV&theme=github_dark" alt="Top Languages by Repo" height="170" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ThanhTNV&theme=github_dark" alt="Top Languages by Commit" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThanhTNV&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ThanhTNV&theme=github_dark" alt="Stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThanhTNV&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" height="165" />
 </p>
 
 <p align="center">
